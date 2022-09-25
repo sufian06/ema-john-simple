@@ -40,6 +40,6 @@
 .btn-cart:hover {
   background-color: orange;
 }
-.btn-cart:hover .cart-icon {
+/* .btn-cart:hover .cart-icon {
   color: #ffe0b3;
-}
+} */
