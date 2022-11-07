@@ -12,7 +12,27 @@
   font-size: 17px;
   letter-spacing: 0.5px;
   margin-left: 36px;
+  font-weight: bold;
 }
 .header a:hover {
   color: #ff9900;
+}
+.user-email {
+  color: #fff;
+  margin-left: 1rem;
+}
+.logout-btn {
+  margin-left: 1rem;
+  border: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.3s;
+  background-color: #ff9900;
+}
+.logout-btn:hover {
+  background-color: #c57f17;
+  color: #fff;
 }
